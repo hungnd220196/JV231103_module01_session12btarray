@@ -1,0 +1,2 @@
+-Mảng là 1 kiểu dữ liệu có thể lưu trữ nhiều kiểu dữ liệu khác nhau
+-Số lượng các phần tử trong mảng không giới hạn 
